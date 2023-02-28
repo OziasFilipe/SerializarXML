@@ -1,0 +1,15 @@
+C:\Users\Tecsoluti\Desktop\SerializarEdesserializarXML\bin\Debug\net6.0\SerializarEdesserializarXML.exe
+C:\Users\Tecsoluti\Desktop\SerializarEdesserializarXML\bin\Debug\net6.0\SerializarEdesserializarXML.deps.json
+C:\Users\Tecsoluti\Desktop\SerializarEdesserializarXML\bin\Debug\net6.0\SerializarEdesserializarXML.runtimeconfig.json
+C:\Users\Tecsoluti\Desktop\SerializarEdesserializarXML\bin\Debug\net6.0\SerializarEdesserializarXML.dll
+C:\Users\Tecsoluti\Desktop\SerializarEdesserializarXML\bin\Debug\net6.0\SerializarEdesserializarXML.pdb
+C:\Users\Tecsoluti\Desktop\SerializarEdesserializarXML\obj\Debug\net6.0\SerializarEdesserializarXML.csproj.AssemblyReference.cache
+C:\Users\Tecsoluti\Desktop\SerializarEdesserializarXML\obj\Debug\net6.0\SerializarEdesserializarXML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tecsoluti\Desktop\SerializarEdesserializarXML\obj\Debug\net6.0\SerializarEdesserializarXML.AssemblyInfoInputs.cache
+C:\Users\Tecsoluti\Desktop\SerializarEdesserializarXML\obj\Debug\net6.0\SerializarEdesserializarXML.AssemblyInfo.cs
+C:\Users\Tecsoluti\Desktop\SerializarEdesserializarXML\obj\Debug\net6.0\SerializarEdesserializarXML.csproj.CoreCompileInputs.cache
+C:\Users\Tecsoluti\Desktop\SerializarEdesserializarXML\obj\Debug\net6.0\SerializarEdesserializarXML.dll
+C:\Users\Tecsoluti\Desktop\SerializarEdesserializarXML\obj\Debug\net6.0\refint\SerializarEdesserializarXML.dll
+C:\Users\Tecsoluti\Desktop\SerializarEdesserializarXML\obj\Debug\net6.0\SerializarEdesserializarXML.pdb
+C:\Users\Tecsoluti\Desktop\SerializarEdesserializarXML\obj\Debug\net6.0\SerializarEdesserializarXML.genruntimeconfig.cache
+C:\Users\Tecsoluti\Desktop\SerializarEdesserializarXML\obj\Debug\net6.0\ref\SerializarEdesserializarXML.dll
